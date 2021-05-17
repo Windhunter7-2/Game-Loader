@@ -7,7 +7,7 @@ Project Recolor (A gigantic mod project of mine) in particular will use an exten
 
 Optionally, users would also be able to store their passwords on their local computer for each game, so that when they load the game, they don’t have to type their password each time. (These would be stored locally, so even though there would still be some online connectivity threat in security, there would be some security to the local vs. online storage; in addition, if the user uses a USB or other portable drive as the storage for their passwords, they could just unplug the device any time they’re not using the password loader sub-program)
 
-Optionally, users would also have the option to change their settings via simply right-clicking on the particular game and changing the settings, and the program will do these configurations.
+Optionally, users would also have the option to change their settings via simply right-clicking on the particular game and changing the settings, and the program will do these configurations. 
 
 
 # Notes
